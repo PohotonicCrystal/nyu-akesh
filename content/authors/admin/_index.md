@@ -17,44 +17,44 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Arts in Industrial/Organizational Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: New York University
+    url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Organizational behavior and employee performance
+  - Leadership styles and team dynamics
+  - Employee recruitment and development strategies
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in I-O Psychology
+      institution: New York University
+      year: 2023
+    - course: BSc in Psychology
+      institution: Peking University
+      year: 2019
+    - course: BSc in Hindi Language and Literature
+      institution: Peking University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
-        percent: 80
-        icon: python
+        percent: 100
+        icon: R
         icon_pack: fab
       - name: Data Science
         description: ''
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Akesh is a master's student in Industrial-Organizational Psychology at New York University. Her career focus is in XX. She has been involved in XX projects/internships.
 {style="text-align: justify;"}
