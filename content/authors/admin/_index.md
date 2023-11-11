@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Akesh is a master's student in Industrial-Organizational Psychology at New York University. Her career focus is in XX. She has been involved in XX projects/internships.
+Akesh is a master's student in Industrial-Organizational Psychology at New York University. Her career focus is in People Analytics. She has been involved in XX projects/internships.
 {style="text-align: justify;"}
