@@ -66,7 +66,7 @@ sections:
         - title: People & Culture Intern
           company: Authentic Brands Group 
           company_url: 'https://corporate.authentic.com/'
-          company_logo: Authentic_White
+          company_logo: authentic
           location: New York, USA
           date_start: '2024-06-01'
           date_end: '2024-08-30'
