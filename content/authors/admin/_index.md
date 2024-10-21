@@ -146,5 +146,5 @@ social:
 highlight_name: true
 ---
 
-Akesh is a master's student in Industrial-Organizational Psychology at New York University. Her career focus is in People Analytics.
+Akesh is a master's student in Industrial-Organizational Psychology at New York University. Professional in people data analysis with advanced tools (i.e., LLM, NLP, etc.) and IO Psychology perspective, equipped with management consulting experience for efficient and concise visualization, senior management communication, and client management experience, she is passionate about bringing data insights into storytelling to inform human capital-based strategic decisioning.
 {style="text-align: justify;"}
