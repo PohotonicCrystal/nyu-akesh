@@ -63,6 +63,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: People & Culture Intern
+          company: Authentic Brands Group 
+          company_url: 'https://corporate.authentic.com/'
+          company_logo: Authentic_White
+          location: New York, USA
+          date_start: '2024-06-01'
+          date_end: '2024-08-30'
+          description: |2-
+              * Spearheaded job profile nomenclature and competency matrices framework for Mgmt. and IC job tracks
+              * Analyzed overhaul of bonus & equity program design and executive compensation through public peer financial data
+              * Established a global framework for travel insurance across 16 countries, and project-managed execution
         - title: Research Assistant
           company: Human Capital Analytics Laboratory (NYU)
           company_url: 'https://game.engineering.nyu.edu/human-capital-analytics/'
